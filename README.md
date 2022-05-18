@@ -7,11 +7,11 @@ Specifically, it supports a quick plug and play of various models, that are cruc
 
 Dwelve into the world of 3D virtual chatbots, by trying the following Google Colab notebooks
 
-|<img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/dolphin_deform.gif" width="310"/>|<img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/bundle_adjust.gif" width="310"/>|
+|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_fs_gif.gif" width="310"/>|<img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/bundle_adjust.gif" width="310"/>|
 |:-----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
 | [Photorealistic video-to-video inference (few-shot)](https://github.com/cantonioupao/3d-virtual-chatbot/main/fs_vid2vid.ipynb)| [Synthetic image generation - StyleGAN](https://github.com/cantonioupao/3d-virtual-chatbot/main/stylegan.ipynb) |
 
-| <img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/render_textured_mesh.gif" width="310"/> | <img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/camera_position_teapot.gif" width="310" height="310"/>
+| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_gif.gif" width="310"/> | <img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/camera_position_teapot.gif" width="310" height="310"/>
 |:------------------------------------------------------------:|:--------------------------------------------------:|
 | [Expression Transfer from source image to target mesh](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/render_textured_meshes.ipynb)| [Reconstruct 3D avatars from single image](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/camera_position_optimization_with_differentiable_rendering.ipynb)|
 
