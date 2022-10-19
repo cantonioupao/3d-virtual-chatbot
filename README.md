@@ -7,7 +7,7 @@ Specifically, it supports a quick plug and play of various models, that are cruc
 
 Dwelve into the world of 3D virtual chatbots, by trying the following Google Colab notebooks
 
-|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/stylegan_gif.gif" width="310"/>|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_fs_gif.gif" width="400"/>|
+|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/stylegan_gif.gif" width="310"/>|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/vid2vid_Inference.ipynb" width="400"/>|
 |:-----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
 | [Synthetic image generation - StyleGAN](https://github.com/cantonioupao/3d-virtual-chatbot/main/stylegan.ipynb) | [Photorealistic video-to-video inference (few-shot)](https://github.com/cantonioupao/3d-virtual-chatbot/main/fs_vid2vid.ipynb)|
 
