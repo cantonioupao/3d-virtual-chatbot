@@ -7,25 +7,25 @@ Specifically, it supports a quick plug and play of various models, that are cruc
 
 Dwelve into the world of 3D virtual chatbots, by trying the following Google Colab notebooks
 
-|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/stylegan_gif.gif" width="310"/>|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/vid2vid_Inference.ipynb" width="400"/>|
+|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/stylegan_gif.gif" width="310"/>|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_fs_gif.gif" width="400"/>|
 |:-----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
-| [Synthetic image generation - StyleGAN](https://github.com/cantonioupao/3d-virtual-chatbot/main/stylegan.ipynb) | [Photorealistic video-to-video inference (few-shot)](https://github.com/cantonioupao/3d-virtual-chatbot/main/fs_vid2vid.ipynb)|
+| [Synthetic image generation - StyleGAN](https://github.com/cantonioupao/3d-virtual-chatbot/main/stylegan.ipynb) | [Photorealistic video-to-video inference (few-shot)](https://github.com/cantonioupao/3d-virtual-chatbot/vid2vid_Inference.ipynb)|
 
 | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_gif.gif" width="310"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_expression_gif.gif" width="400" height="310"/>
 |:------------------------------------------------------------:|:--------------------------------------------------:|
-| [Reconstruct 3D avatars from single image](https://github.com/cantonioupao/3d-virtual-chatbot/main/deca.ipynb)| [Expression Transfer from source image to target mesh](https://github.com/cantonioupao/3d-virtual-chatbot/main/deca.ipynb)|
+| [Reconstruct 3D avatars from single image](https://github.com/cantonioupao/3d-virtual-chatbot/deca.ipynb)| [Expression Transfer from source image to target mesh](https://github.com/cantonioupao/3d-virtual-chatbot/main/deca.ipynb)|
 
 | <img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/pointcloud_render.png" width="310"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/voca_gif.gif" width="400" height="310"/>
 |:------------------------------------------------------------:|:--------------------------------------------------:|
-| [Fit 3D avatar reconstruction pipeline](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/render_colored_points.ipynb)| [3D Avatar animation based on audio signal - VOCA](https://github.com/cantonioupao/3d-virtual-chatbot/main/voca.ipynb)|
+| [Fit 3D avatar reconstruction pipeline](https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/fit_FLAME_mesh.ipynb)| [3D Avatar animation based on audio signal - VOCA](https://github.com/cantonioupao/3d-virtual-chatbot/voca.ipynb)|
 
 | <img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/densepose_render.png" width="310"/> | <img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/shapenet_render.png" width="310" height="310"/>
 |:------------------------------------------------------------:|:--------------------------------------------------:|
-| [Inverse rendering with Image Enhancement NN](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/render_densepose.ipynb)| [Text-to-audio synthesis](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/dataloaders_ShapeNetCore_R2N2.ipynb)|
+| [Inverse rendering for input video (NHA)](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/render_densepose.ipynb)| [Text-to-audio synthesis](https://github.com/cantonioupao/3d-virtual-chatbot/text_to_speech.ipynb)|
 
 | <img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/fit_textured_volume.gif" width="310"/> | <img src="https://raw.githubusercontent.com/facebookresearch/pytorch3d/main/.github/fit_nerf.gif" width="400" height="310"/>
 |:------------------------------------------------------------:|:--------------------------------------------------:|
-| [Text-to-expression](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/fit_textured_volume.ipynb)| [Fit A Simple Neural Radiance Field](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/fit_simple_neural_radiance_field.ipynb)|
+| [3D face single-image reconstruction](https://github.com/cantonioupao/3d-virtual-chatbot/unsup3d.ipynb)| [Visualize Mesh](https://github.com/cantonioupao/3d-virtual-chatbot/visualize_mesh.ipynb)|
 
 Our tutorials include code from the following models/papers/repositories:
  - [fs_vid2vid](https://github.com/NVlabs/imaginaire/blob/master/projects/fs_vid2vid/README.md) &rarr; fs_vid2vid_inference.ipynb
