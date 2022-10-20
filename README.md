@@ -7,23 +7,23 @@ Specifically, it supports a quick plug and play of various models, that are cruc
 
 Dwelve into the world of 3D virtual chatbots, by trying the following Google Colab notebooks
 
-|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/stylegan_gif.gif" width="310"/>|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_fs_gif.gif" width="400"/>|
+|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/stylegan_gif.gif" width="400"/>|<img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_fs_gif.gif" width="400"/>|
 |:-----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
 | [Synthetic image generation - StyleGAN](https://github.com/cantonioupao/3d-virtual-chatbot/blob/main/stylegan.ipynb) | [Photorealistic video-to-video inference (few-shot)](https://github.com/cantonioupao/3d-virtual-chatbot/blob/main/vid2vid_Inference.ipynb)|
 
-| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_gif.gif" width="310"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_expression_gif.gif" width="400" height="310"/>
+| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_gif.gif" width="400"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/final_expression_gif.gif" width="400" />
 |:------------------------------------------------------------:|:--------------------------------------------------:|
 | [Reconstruct 3D FLAME mesh from single image](https://github.com/cantonioupao/3d-virtual-chatbot/blob/main/deca.ipynb)| [Expression Transfer from source image to target mesh](https://github.com/cantonioupao/3d-virtual-chatbot/blob/main/deca.ipynb)|
 
-| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/fit_flame_gif.gif" width="310"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/voca_gif.gif" width="400" height="310"/>
+| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/fit_flame_gif.gif" width="400"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/voca_gif.gif" width="400"/>
 |:------------------------------------------------------------:|:--------------------------------------------------:|
 | [Fit 3D avatar reconstruction pipeline](https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/blob/main/fit_FLAME_mesh.ipynb)| [3D Avatar animation based on audio signal - VOCA](https://github.com/cantonioupao/3d-virtual-chatbot/blob/main/voca.ipynb)|
 
-| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/text_to_audio.gif" width="310" height="310"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/nha.gif" width="310"/>
+| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/text_to_speech.gif" width="400"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/nha.gif" height= "150" width="400"/>
 |:------------------------------------------------------------:|:--------------------------------------------------:|
 |[Text-to-audio synthesis](https://github.com/cantonioupao/3d-virtual-chatbot/text_to_speech.ipynb)|  [Inverse rendering for input video (NHA)](https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/render_densepose.ipynb)
 
-| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/unsup3d.gif" width="310"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/vis_mesh.gif" width="400" height="310"/>
+| <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/unsup3d.gif" width="400"/> | <img src="https://raw.githubusercontent.com/cantonioupao/3d-virtual-chatbot/main/gifs/vis_mesh.gif" width="400" />
 |:------------------------------------------------------------:|:--------------------------------------------------:|
 | [Visualize Mesh](https://github.com/cantonioupao/3d-virtual-chatbot/visualize_mesh.ipynb) | [3D face mesh reconstruction from single-view image](https://github.com/cantonioupao/3d-virtual-chatbot/unsup3d.ipynb)| 
 
